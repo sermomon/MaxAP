@@ -14,8 +14,8 @@ where *i* is the number of pure pixels in the parcel *N*, and *j* is the number 
 
 This repository contains the following functions:
 
-`train_RF_MaxAP()`
+`train_RF_MaxAP(vectorData, labelField, imgData, imgNames, ntrees=150, saveRF=TRUE)`
 
-`prob_RF_MaxAP()`
+`prob_RF_MaxAP(imgData, imgNames)`
 
-`classify_RF_MaxAP()`
+`classify_RF_MaxAP(probData)`
