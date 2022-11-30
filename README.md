@@ -11,3 +11,11 @@ The proposed method is described below:
 ![Imagen1](https://user-images.githubusercontent.com/59225676/204857449-99f383e3-6145-41f5-94aa-3b6e108fa331.png)
 
 where *i* is the number of pure pixels in the parcel *N*, and *j* is the number of classes.
+
+This repository contains the following functions:
+
+`ptrain_RF_MaxAP()`
+
+`prob_RF_MaxAP()`
+
+`classify_RF_MaxAP()`
